@@ -1,0 +1,19 @@
+body {
+    background-color: #eaeaea;
+}
+
+hr {
+    border-style: dotted none none;
+    width: 10%;
+    border-color: grey;
+    border-width: 0.3em;
+
+}
+
+img {
+    width: 25%;
+}
+
+:is(h1, h2, h3, h4, h5, h6) {
+    color: #08d9d6;
+  }
